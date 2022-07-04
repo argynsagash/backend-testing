@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-6-testing-argynsagash-master.iml" filepath="$PROJECT_DIR$/.idea/backend-6-testing-argynsagash-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integro/hellointegro.iml" filepath="$PROJECT_DIR$/integro/hellointegro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockito/simpletest.iml" filepath="$PROJECT_DIR$/mockito/simpletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellojunit/simpletest (1).iml" filepath="$PROJECT_DIR$/hellojunit/simpletest (1).iml" />
+    </modules>
+  </component>
+</project>

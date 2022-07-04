@@ -1,0 +1,49 @@
+{
+  "amount": {
+    "currency": {
+      "context": {
+        "empty": false,
+        "providerName": "java.util.Currency"
+      },
+      "currencyCode": "EUR",
+      "defaultFractionDigits": 2,
+      "numericCode": 978
+    },
+    "number": 100,
+    "factory": {
+      "defaultMonetaryContext": {
+        "precision": 0,
+        "amountType": "org.javamoney.moneta.Money",
+        "maxScale": 63,
+        "fixedScale": false,
+        "empty": false,
+        "providerName": null
+      },
+      "amountType": "org.javamoney.moneta.Money",
+      "minNumber": null,
+      "maxNumber": null,
+      "maximalMonetaryContext": {
+        "precision": 0,
+        "amountType": "org.javamoney.moneta.Money",
+        "maxScale": -1,
+        "fixedScale": false,
+        "empty": false,
+        "providerName": null
+      }
+    },
+    "context": {
+      "precision": 0,
+      "amountType": "org.javamoney.moneta.Money",
+      "maxScale": 63,
+      "fixedScale": false,
+      "empty": false,
+      "providerName": null
+    },
+    "zero": false,
+    "negative": false,
+    "positive": true,
+    "positiveOrZero": true,
+    "negativeOrZero": false,
+    "numberStripped": 1E+2
+  }
+}
